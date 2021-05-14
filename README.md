@@ -18,7 +18,7 @@ To understand what goes on in a person’s mind when he is captivated by the rev
 These attributes help gain his trust.<br><br>
 
 Considering parameters and attributes in a project where I need to understand thinking of the masses I decided to take a poll.
-I took inputs from a google doc form which I have shared, before deciding these attributes. (Below)
+I took inputs from a google doc form which I have shared, before deciding these attributes. <br><br>
 From a raw perspective we get stars count, verified tag, people who found it helpful count, images and date.
 Also we could access edited tag.
 
